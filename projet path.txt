@@ -1,0 +1,1 @@
+C:\ti\simplelink_msp432p4_sdk_3_40_01_02\examples\nortos\MSP_EXP432P401R\driverlib\driverlib_empty_project_from_source

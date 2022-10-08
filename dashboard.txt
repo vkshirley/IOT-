@@ -1,0 +1,21 @@
+[
+    {
+        "id": "93068b0c247d3fd0",
+        "type": "template",
+        "z": "49628f2dbcfde0ba",
+        "name": "Notification",
+        "field": "payload",
+        "fieldType": "msg",
+        "format": "handlebars",
+        "syntax": "mustache",
+        "template": "Alert CPU core_1: {{payload}}%",
+        "output": "str",
+        "x": 570,
+        "y": 260,
+        "wires": [
+            [
+                "2f52a465612496be"
+            ]
+        ]
+    }
+]
